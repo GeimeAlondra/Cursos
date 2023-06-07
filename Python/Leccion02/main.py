@@ -1,16 +1,23 @@
-# This is a sample Python script.
+operandoA = 3
+operandoB = 3
 
-# Press Mayús+F10 to execute it or replace it with your code.
-# Press Double Shift to search everywhere for classes, files, tool windows, actions, and settings.
+suma = operandoA + operandoB
+print(f'Resultado de la suma: {suma} ')
 
+resta = operandoA - operandoB
+print(f'Resultado de la resta: {resta} ')
 
-def print_hi(name):
-    # Use a breakpoint in the code line below to debug your script.
-    print(f'Hi, {name}')  # Press Ctrl+F8 to toggle the breakpoint.
+multiplicacion = operandoA * operandoB
+print(f'Resultado de la multiplicacion: {multiplicacion}')
 
+division = operandoA / operandoB
+print(f'Resultado de la division: {division}')
 
-# Press the green button in the gutter to run the script.
-if __name__ == '__main__':
-    print_hi('PyCharm')
+division = operandoA // operandoB
+print(f'Resultado de la division (int): {division}')
 
-# See PyCharm help at https://www.jetbrains.com/help/pycharm/
+modulo = operandoA % operandoB
+print(f'Resultado de la division (modulo): {modulo}')
+
+exponente = operandoA ** operandoB
+print(f'Resultado del exponente: {exponente}')
