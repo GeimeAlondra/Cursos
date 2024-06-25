@@ -1,0 +1,15 @@
+C:\Cursos\C#\CircleAreaCalculatorSol\CircleAreaCalculator\bin\Debug\net8.0\CircleAreaCalculator.exe
+C:\Cursos\C#\CircleAreaCalculatorSol\CircleAreaCalculator\bin\Debug\net8.0\CircleAreaCalculator.deps.json
+C:\Cursos\C#\CircleAreaCalculatorSol\CircleAreaCalculator\bin\Debug\net8.0\CircleAreaCalculator.runtimeconfig.json
+C:\Cursos\C#\CircleAreaCalculatorSol\CircleAreaCalculator\bin\Debug\net8.0\CircleAreaCalculator.dll
+C:\Cursos\C#\CircleAreaCalculatorSol\CircleAreaCalculator\bin\Debug\net8.0\CircleAreaCalculator.pdb
+C:\Cursos\C#\CircleAreaCalculatorSol\CircleAreaCalculator\obj\Debug\net8.0\CircleAreaCalculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Cursos\C#\CircleAreaCalculatorSol\CircleAreaCalculator\obj\Debug\net8.0\CircleAreaCalculator.AssemblyInfoInputs.cache
+C:\Cursos\C#\CircleAreaCalculatorSol\CircleAreaCalculator\obj\Debug\net8.0\CircleAreaCalculator.AssemblyInfo.cs
+C:\Cursos\C#\CircleAreaCalculatorSol\CircleAreaCalculator\obj\Debug\net8.0\CircleAreaCalculator.csproj.CoreCompileInputs.cache
+C:\Cursos\C#\CircleAreaCalculatorSol\CircleAreaCalculator\obj\Debug\net8.0\CircleAreaCalculator.sourcelink.json
+C:\Cursos\C#\CircleAreaCalculatorSol\CircleAreaCalculator\obj\Debug\net8.0\CircleAreaCalculator.dll
+C:\Cursos\C#\CircleAreaCalculatorSol\CircleAreaCalculator\obj\Debug\net8.0\refint\CircleAreaCalculator.dll
+C:\Cursos\C#\CircleAreaCalculatorSol\CircleAreaCalculator\obj\Debug\net8.0\CircleAreaCalculator.pdb
+C:\Cursos\C#\CircleAreaCalculatorSol\CircleAreaCalculator\obj\Debug\net8.0\CircleAreaCalculator.genruntimeconfig.cache
+C:\Cursos\C#\CircleAreaCalculatorSol\CircleAreaCalculator\obj\Debug\net8.0\ref\CircleAreaCalculator.dll

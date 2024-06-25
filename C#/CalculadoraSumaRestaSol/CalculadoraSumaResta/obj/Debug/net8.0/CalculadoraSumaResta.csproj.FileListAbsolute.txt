@@ -1,0 +1,15 @@
+C:\Cursos\C#\CalculadoraSumaRestaSol\CalculadoraSumaResta\bin\Debug\net8.0\CalculadoraSumaResta.exe
+C:\Cursos\C#\CalculadoraSumaRestaSol\CalculadoraSumaResta\bin\Debug\net8.0\CalculadoraSumaResta.deps.json
+C:\Cursos\C#\CalculadoraSumaRestaSol\CalculadoraSumaResta\bin\Debug\net8.0\CalculadoraSumaResta.runtimeconfig.json
+C:\Cursos\C#\CalculadoraSumaRestaSol\CalculadoraSumaResta\bin\Debug\net8.0\CalculadoraSumaResta.dll
+C:\Cursos\C#\CalculadoraSumaRestaSol\CalculadoraSumaResta\bin\Debug\net8.0\CalculadoraSumaResta.pdb
+C:\Cursos\C#\CalculadoraSumaRestaSol\CalculadoraSumaResta\obj\Debug\net8.0\CalculadoraSumaResta.GeneratedMSBuildEditorConfig.editorconfig
+C:\Cursos\C#\CalculadoraSumaRestaSol\CalculadoraSumaResta\obj\Debug\net8.0\CalculadoraSumaResta.AssemblyInfoInputs.cache
+C:\Cursos\C#\CalculadoraSumaRestaSol\CalculadoraSumaResta\obj\Debug\net8.0\CalculadoraSumaResta.AssemblyInfo.cs
+C:\Cursos\C#\CalculadoraSumaRestaSol\CalculadoraSumaResta\obj\Debug\net8.0\CalculadoraSumaResta.csproj.CoreCompileInputs.cache
+C:\Cursos\C#\CalculadoraSumaRestaSol\CalculadoraSumaResta\obj\Debug\net8.0\CalculadoraSumaResta.sourcelink.json
+C:\Cursos\C#\CalculadoraSumaRestaSol\CalculadoraSumaResta\obj\Debug\net8.0\CalculadoraSumaResta.dll
+C:\Cursos\C#\CalculadoraSumaRestaSol\CalculadoraSumaResta\obj\Debug\net8.0\refint\CalculadoraSumaResta.dll
+C:\Cursos\C#\CalculadoraSumaRestaSol\CalculadoraSumaResta\obj\Debug\net8.0\CalculadoraSumaResta.pdb
+C:\Cursos\C#\CalculadoraSumaRestaSol\CalculadoraSumaResta\obj\Debug\net8.0\CalculadoraSumaResta.genruntimeconfig.cache
+C:\Cursos\C#\CalculadoraSumaRestaSol\CalculadoraSumaResta\obj\Debug\net8.0\ref\CalculadoraSumaResta.dll

@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34525.116
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Clases", "Clases\Clases.csproj", "{86DA8F71-D1C2-452E-BBBA-44C64502514B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Encapsulacion", "Encapsulacion\Encapsulacion.csproj", "{22290912-F617-4851-A9F4-CDC6B7C43CF3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Herencia", "Herencia\Herencia.csproj", "{4C36F823-58BD-4769-8596-7582C923D861}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{86DA8F71-D1C2-452E-BBBA-44C64502514B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{86DA8F71-D1C2-452E-BBBA-44C64502514B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{86DA8F71-D1C2-452E-BBBA-44C64502514B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{86DA8F71-D1C2-452E-BBBA-44C64502514B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{22290912-F617-4851-A9F4-CDC6B7C43CF3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{22290912-F617-4851-A9F4-CDC6B7C43CF3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{22290912-F617-4851-A9F4-CDC6B7C43CF3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{22290912-F617-4851-A9F4-CDC6B7C43CF3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4C36F823-58BD-4769-8596-7582C923D861}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4C36F823-58BD-4769-8596-7582C923D861}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4C36F823-58BD-4769-8596-7582C923D861}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4C36F823-58BD-4769-8596-7582C923D861}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2BEC5D77-1194-4AC3-BDD5-BE3CDDD79707}
+	EndGlobalSection
+EndGlobal

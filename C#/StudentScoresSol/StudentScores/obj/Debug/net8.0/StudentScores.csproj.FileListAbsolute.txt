@@ -1,0 +1,15 @@
+C:\Cursos\C#\StudentScoresSol\StudentScores\bin\Debug\net8.0\StudentScores.exe
+C:\Cursos\C#\StudentScoresSol\StudentScores\bin\Debug\net8.0\StudentScores.deps.json
+C:\Cursos\C#\StudentScoresSol\StudentScores\bin\Debug\net8.0\StudentScores.runtimeconfig.json
+C:\Cursos\C#\StudentScoresSol\StudentScores\bin\Debug\net8.0\StudentScores.dll
+C:\Cursos\C#\StudentScoresSol\StudentScores\bin\Debug\net8.0\StudentScores.pdb
+C:\Cursos\C#\StudentScoresSol\StudentScores\obj\Debug\net8.0\StudentScores.GeneratedMSBuildEditorConfig.editorconfig
+C:\Cursos\C#\StudentScoresSol\StudentScores\obj\Debug\net8.0\StudentScores.AssemblyInfoInputs.cache
+C:\Cursos\C#\StudentScoresSol\StudentScores\obj\Debug\net8.0\StudentScores.AssemblyInfo.cs
+C:\Cursos\C#\StudentScoresSol\StudentScores\obj\Debug\net8.0\StudentScores.csproj.CoreCompileInputs.cache
+C:\Cursos\C#\StudentScoresSol\StudentScores\obj\Debug\net8.0\StudentScores.sourcelink.json
+C:\Cursos\C#\StudentScoresSol\StudentScores\obj\Debug\net8.0\StudentScores.dll
+C:\Cursos\C#\StudentScoresSol\StudentScores\obj\Debug\net8.0\refint\StudentScores.dll
+C:\Cursos\C#\StudentScoresSol\StudentScores\obj\Debug\net8.0\StudentScores.pdb
+C:\Cursos\C#\StudentScoresSol\StudentScores\obj\Debug\net8.0\StudentScores.genruntimeconfig.cache
+C:\Cursos\C#\StudentScoresSol\StudentScores\obj\Debug\net8.0\ref\StudentScores.dll

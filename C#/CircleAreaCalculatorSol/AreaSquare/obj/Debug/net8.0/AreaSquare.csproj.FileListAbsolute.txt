@@ -1,0 +1,15 @@
+C:\Cursos\C#\CircleAreaCalculatorSol\AreaSquare\bin\Debug\net8.0\AreaSquare.exe
+C:\Cursos\C#\CircleAreaCalculatorSol\AreaSquare\bin\Debug\net8.0\AreaSquare.deps.json
+C:\Cursos\C#\CircleAreaCalculatorSol\AreaSquare\bin\Debug\net8.0\AreaSquare.runtimeconfig.json
+C:\Cursos\C#\CircleAreaCalculatorSol\AreaSquare\bin\Debug\net8.0\AreaSquare.dll
+C:\Cursos\C#\CircleAreaCalculatorSol\AreaSquare\bin\Debug\net8.0\AreaSquare.pdb
+C:\Cursos\C#\CircleAreaCalculatorSol\AreaSquare\obj\Debug\net8.0\AreaSquare.GeneratedMSBuildEditorConfig.editorconfig
+C:\Cursos\C#\CircleAreaCalculatorSol\AreaSquare\obj\Debug\net8.0\AreaSquare.AssemblyInfoInputs.cache
+C:\Cursos\C#\CircleAreaCalculatorSol\AreaSquare\obj\Debug\net8.0\AreaSquare.AssemblyInfo.cs
+C:\Cursos\C#\CircleAreaCalculatorSol\AreaSquare\obj\Debug\net8.0\AreaSquare.csproj.CoreCompileInputs.cache
+C:\Cursos\C#\CircleAreaCalculatorSol\AreaSquare\obj\Debug\net8.0\AreaSquare.sourcelink.json
+C:\Cursos\C#\CircleAreaCalculatorSol\AreaSquare\obj\Debug\net8.0\AreaSquare.dll
+C:\Cursos\C#\CircleAreaCalculatorSol\AreaSquare\obj\Debug\net8.0\refint\AreaSquare.dll
+C:\Cursos\C#\CircleAreaCalculatorSol\AreaSquare\obj\Debug\net8.0\AreaSquare.pdb
+C:\Cursos\C#\CircleAreaCalculatorSol\AreaSquare\obj\Debug\net8.0\AreaSquare.genruntimeconfig.cache
+C:\Cursos\C#\CircleAreaCalculatorSol\AreaSquare\obj\Debug\net8.0\ref\AreaSquare.dll
