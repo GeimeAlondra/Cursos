@@ -1,0 +1,15 @@
+C:\Cursos\C#\ConstructoresPrimariosSol\ConstructoresPrimarios\bin\Debug\net8.0\ConstructoresPrimarios.exe
+C:\Cursos\C#\ConstructoresPrimariosSol\ConstructoresPrimarios\bin\Debug\net8.0\ConstructoresPrimarios.deps.json
+C:\Cursos\C#\ConstructoresPrimariosSol\ConstructoresPrimarios\bin\Debug\net8.0\ConstructoresPrimarios.runtimeconfig.json
+C:\Cursos\C#\ConstructoresPrimariosSol\ConstructoresPrimarios\bin\Debug\net8.0\ConstructoresPrimarios.dll
+C:\Cursos\C#\ConstructoresPrimariosSol\ConstructoresPrimarios\bin\Debug\net8.0\ConstructoresPrimarios.pdb
+C:\Cursos\C#\ConstructoresPrimariosSol\ConstructoresPrimarios\obj\Debug\net8.0\ConstructoresPrimarios.GeneratedMSBuildEditorConfig.editorconfig
+C:\Cursos\C#\ConstructoresPrimariosSol\ConstructoresPrimarios\obj\Debug\net8.0\ConstructoresPrimarios.AssemblyInfoInputs.cache
+C:\Cursos\C#\ConstructoresPrimariosSol\ConstructoresPrimarios\obj\Debug\net8.0\ConstructoresPrimarios.AssemblyInfo.cs
+C:\Cursos\C#\ConstructoresPrimariosSol\ConstructoresPrimarios\obj\Debug\net8.0\ConstructoresPrimarios.csproj.CoreCompileInputs.cache
+C:\Cursos\C#\ConstructoresPrimariosSol\ConstructoresPrimarios\obj\Debug\net8.0\ConstructoresPrimarios.sourcelink.json
+C:\Cursos\C#\ConstructoresPrimariosSol\ConstructoresPrimarios\obj\Debug\net8.0\ConstructoresPrimarios.dll
+C:\Cursos\C#\ConstructoresPrimariosSol\ConstructoresPrimarios\obj\Debug\net8.0\refint\ConstructoresPrimarios.dll
+C:\Cursos\C#\ConstructoresPrimariosSol\ConstructoresPrimarios\obj\Debug\net8.0\ConstructoresPrimarios.pdb
+C:\Cursos\C#\ConstructoresPrimariosSol\ConstructoresPrimarios\obj\Debug\net8.0\ConstructoresPrimarios.genruntimeconfig.cache
+C:\Cursos\C#\ConstructoresPrimariosSol\ConstructoresPrimarios\obj\Debug\net8.0\ref\ConstructoresPrimarios.dll

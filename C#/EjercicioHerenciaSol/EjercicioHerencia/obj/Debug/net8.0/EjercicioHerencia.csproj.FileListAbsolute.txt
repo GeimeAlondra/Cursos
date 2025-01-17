@@ -1,0 +1,15 @@
+C:\Cursos\C#\EjercicioHerenciaSol\EjercicioHerencia\bin\Debug\net8.0\EjercicioHerencia.exe
+C:\Cursos\C#\EjercicioHerenciaSol\EjercicioHerencia\bin\Debug\net8.0\EjercicioHerencia.deps.json
+C:\Cursos\C#\EjercicioHerenciaSol\EjercicioHerencia\bin\Debug\net8.0\EjercicioHerencia.runtimeconfig.json
+C:\Cursos\C#\EjercicioHerenciaSol\EjercicioHerencia\bin\Debug\net8.0\EjercicioHerencia.dll
+C:\Cursos\C#\EjercicioHerenciaSol\EjercicioHerencia\bin\Debug\net8.0\EjercicioHerencia.pdb
+C:\Cursos\C#\EjercicioHerenciaSol\EjercicioHerencia\obj\Debug\net8.0\EjercicioHerencia.GeneratedMSBuildEditorConfig.editorconfig
+C:\Cursos\C#\EjercicioHerenciaSol\EjercicioHerencia\obj\Debug\net8.0\EjercicioHerencia.AssemblyInfoInputs.cache
+C:\Cursos\C#\EjercicioHerenciaSol\EjercicioHerencia\obj\Debug\net8.0\EjercicioHerencia.AssemblyInfo.cs
+C:\Cursos\C#\EjercicioHerenciaSol\EjercicioHerencia\obj\Debug\net8.0\EjercicioHerencia.csproj.CoreCompileInputs.cache
+C:\Cursos\C#\EjercicioHerenciaSol\EjercicioHerencia\obj\Debug\net8.0\EjercicioHerencia.sourcelink.json
+C:\Cursos\C#\EjercicioHerenciaSol\EjercicioHerencia\obj\Debug\net8.0\EjercicioHerencia.dll
+C:\Cursos\C#\EjercicioHerenciaSol\EjercicioHerencia\obj\Debug\net8.0\refint\EjercicioHerencia.dll
+C:\Cursos\C#\EjercicioHerenciaSol\EjercicioHerencia\obj\Debug\net8.0\EjercicioHerencia.pdb
+C:\Cursos\C#\EjercicioHerenciaSol\EjercicioHerencia\obj\Debug\net8.0\EjercicioHerencia.genruntimeconfig.cache
+C:\Cursos\C#\EjercicioHerenciaSol\EjercicioHerencia\obj\Debug\net8.0\ref\EjercicioHerencia.dll
